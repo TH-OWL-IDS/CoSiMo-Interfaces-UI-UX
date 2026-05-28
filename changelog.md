@@ -17,4 +17,5 @@
 - Updated `README.md` and `CONTRIBUTING.md` to reflect gadgets container pattern
 - Added `.gitignore` covering macOS, Windows, editors, design tools, and Claude Code
 - Added example flow naming convention (`example_` prefix) to `CLAUDE.md`, `AGENTS.md`, and `CONTRIBUTING.md`
+- Created `interfaces/app/flows/example_2friends_back-pain.md` — first example flow for the app interface
 - Created `decisions/` and `assets/` folders at repo root

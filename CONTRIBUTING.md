@@ -108,3 +108,17 @@ What does this decision enable or constrain going forward?
 - File names are **lowercase and hyphenated** (no spaces, no camelCase).
 - Every change to this repository should have a corresponding entry in `changelog.md`.
 - Prefer editing existing documents over creating new ones unless the topic is genuinely distinct.
+
+## Example Flow Naming
+
+Example flows inside any `flows/` folder must follow this pattern:
+
+```
+example_<descriptor1>_<descriptor2>_<descriptor3>.md
+```
+
+Examples:
+- `example_2person_app_back-disability.md`
+- `example_solo_nfc-card_wheelchair.md`
+
+The `example_` prefix is mandatory — it distinguishes concrete scenario walkthroughs from general flow documentation.

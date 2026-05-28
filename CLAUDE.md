@@ -12,6 +12,7 @@ A living workspace for designing and documenting the user interfaces of the CoSi
 - DDRs in `decisions/` follow the naming pattern `NNN-short-title.md`
 - Each interface folder (except `cabin/`) keeps its shape: `overview.md`, `flows/`, `specs/`, `assets/`
 - `cabin/` contains only `overview.md` — IDS @ TH OWL owns its internal structure
+- Example flow files inside any `flows/` folder must start with `example_` followed by underscore-separated descriptors (e.g. `example_2person_app_back-disability.md`). Never create an example flow file without the `example_` prefix.
 
 ## What not to do
 - Do not make or imply design decisions without explicit instruction

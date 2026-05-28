@@ -16,4 +16,5 @@
 - Created `interfaces/gadgets/nfc-card/` with `overview.md`, `flows/`, `specs/`, `assets/`
 - Updated `README.md` and `CONTRIBUTING.md` to reflect gadgets container pattern
 - Added `.gitignore` covering macOS, Windows, editors, design tools, and Claude Code
+- Added example flow naming convention (`example_` prefix) to `CLAUDE.md`, `AGENTS.md`, and `CONTRIBUTING.md`
 - Created `decisions/` and `assets/` folders at repo root

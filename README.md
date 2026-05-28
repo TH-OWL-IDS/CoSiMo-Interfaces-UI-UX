@@ -1,6 +1,6 @@
 # CoSiMo — Interfaces & UI/UX
 
-This repository is the central workplace for designing and documenting the user interfaces and experience of the **CoSiMo** system — the inclusive mobility concierge built for the [MonoCab](https://monocab-system.com). It captures interaction flows, screen specs, design decisions, and visual assets across all CoSiMo touchpoints.
+This repository is the central workplace for designing and documenting the user interfaces and experience of the **CoSiMo** system — the inclusive mobility concierge built for the [MonoCab](https://monocab-system.com). It captures interaction flows, screen specs, design decisions, and visual assets across all CoSiMo touchpoints. For system-level architecture and infrastructure, see the [CoSiMo System Architecture](https://github.com/TH-OWL-IDS/CoSiMo-system-architecture/tree/main) repository.
 
 ---
 
@@ -61,3 +61,4 @@ CoSiMo-Interfaces-UI-UX/
 ├── decisions/             # Design Decision Records (DDRs)
 └── assets/                # Shared exports spanning multiple interfaces
 ```
+

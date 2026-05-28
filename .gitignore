@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Design tools
+*.drawio.bkp
+*.drawio.dtmp
+*.sketch.bak
+*.fig
+
+# Claude Code
+.claude/
+/memory/*
+/memory/
+
+# Temp & logs
+*.log
+*.tmp
+*.bak
+
+# Environment
+.env
+.env.local

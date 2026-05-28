@@ -4,6 +4,12 @@ This repository is the central workplace for designing and documenting the user 
 
 ---
 
+## Example Flows
+
+Each `flows/` folder can contain concrete scenario walkthroughs — a specific person, situation, and context showing how the interface behaves end-to-end. These are the primary tool for communicating design intent across the team.
+
+---
+
 ## Where to find what
 
 | I want to… | Go to |
@@ -55,9 +61,3 @@ CoSiMo-Interfaces-UI-UX/
 ├── decisions/             # Design Decision Records (DDRs)
 └── assets/                # Shared exports spanning multiple interfaces
 ```
-
----
-
-## Example Flows
-
-Each `flows/` folder can contain concrete scenario walkthroughs — a specific person, situation, and context showing how the interface behaves end-to-end. These are the primary tool for communicating design intent across the team.
